@@ -128,7 +128,9 @@
     <ClCompile Include="main.c" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="funkcije.h" />
     <ClInclude Include="header.h" />
+    <ClInclude Include="izbornik.h" />
     <ClInclude Include="podatci.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
