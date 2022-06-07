@@ -32,5 +32,11 @@
     <ClInclude Include="podatci.h">
       <Filter>Source Files</Filter>
     </ClInclude>
+    <ClInclude Include="izbornik.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="funkcije.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

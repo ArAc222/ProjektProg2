@@ -1,0 +1,8 @@
+﻿  main.c
+C:\Users\Bruno\Desktop\ProjektProg2\projekt\projekt\main.c(41,26): warning C4047: 'function': 'Puska *' differs in levels of indirection from 'Puska **'
+C:\Users\Bruno\Desktop\ProjektProg2\projekt\projekt\main.c(41,14): warning C4024: 'uzmiPusku': different types for formal and actual parameter 1
+C:\Users\Bruno\Desktop\ProjektProg2\projekt\projekt\main.c(41,39): warning C4047: 'function': 'int' differs in levels of indirection from 'int *'
+C:\Users\Bruno\Desktop\ProjektProg2\projekt\projekt\main.c(41,28): warning C4024: 'uzmiPusku': different types for formal and actual parameter 2
+C:\Users\Bruno\Desktop\ProjektProg2\projekt\projekt\main.c(86,24): warning C4028: formal parameter 1 different from declaration
+C:\Users\Bruno\Desktop\ProjektProg2\projekt\projekt\main.c(86,42): warning C4028: formal parameter 2 different from declaration
+  projekt.vcxproj -> C:\Users\Bruno\Desktop\ProjektProg2\projekt\x64\Debug\projekt.exe

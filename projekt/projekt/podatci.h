@@ -1,13 +1,13 @@
 #ifndef DATATYPE_H
 #define DATATYPE_H
 
-typedef struct oruzje 
+typedef struct Puska
 {
-	char ime[25];
-	char domet[25];
-	char [50];
-	char brojMobitela[11];
-	int brojPodignutihFilmova;
-}ORUZJE;
+	int id;
+	char ime[50];
+	float brzinaMetka;
+	float domet;
+	char oblikKalibra[50];
+} Puska;
 
 #endif
